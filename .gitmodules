@@ -1,0 +1,3 @@
+[submodule "home/pi/Adafruit-Pi-ExternalRoot-Helper"]
+	path = home/pi/Adafruit-Pi-ExternalRoot-Helper
+	url = https://github.com/adafruit/Adafruit-Pi-ExternalRoot-Helper.git
